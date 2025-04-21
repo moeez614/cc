@@ -89,7 +89,9 @@ body{
     text-align: center;
     margin: 0;
     color: gray;
-    padding: 7px 0 0 0 ;
+    padding: 7px 0 5px 0;
+    position: absolue;
+    bottom: 0;
 }
 .intro h5 a{
     text-decoration: none;
